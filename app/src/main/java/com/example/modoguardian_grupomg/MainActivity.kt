@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import com.example.modoguardian_grupomg.ui.HomeScreen
+import com.example.modoguardian_grupomg.ui.screens.HomeScreen
 import com.example.modoguardian_grupomg.ui.theme.ModoGuardian_GrupoMGTheme
 
 class MainActivity : ComponentActivity() {
